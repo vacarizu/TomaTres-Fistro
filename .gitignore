@@ -1,0 +1,5 @@
+*.pyc
+__pycache__
+zona1
+db.sqlite3
+.DS_Store
